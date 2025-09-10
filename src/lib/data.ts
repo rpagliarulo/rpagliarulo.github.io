@@ -13,48 +13,30 @@ export const education = [
   {
     institution: "Universidad Nacional de Hurlingham",
     location: "Buenos Aires, Argentina",
-    degree: "Técnica Universitaria en Programación",
+    degree: "Tecnicatura Universitaria en Programación",
     period: "2022 - 2025",
-    achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
-    ],
   },
 
   {
     institution: "Universidad Nacional de Hurlingham",
     location: "Buenos Aires, Argentina",
-    degree: "Licencia",
-    period: "2022 - 2025",
-    achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
-    ],
+    degree: "Licenciatura en Informática",
+    period: "2022 - actualidad",
   },
 ];
 
 
 export const skills = {
   programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+    "Java",
+    "Phyton",
+    "JavaScript",
+
   ],
   frontendDevelopment: [
-    "LoremJS",
-    "IpsumJS",
-    "Dolor Native",
-    "Sit UI",
-    "Amet CSS",
     "HTML",
     "CSS",
+    "React.js",
   ],
   backendDevelopment: ["LoremNode", "IpsumExpress"],
   databaseAndStorage: ["LoremDB", "IpsumORM"],
@@ -72,7 +54,7 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Lorem Ipsum Project",
+    title: "Sistema de administración de Obra social",
     github: "https://github.com/loremipsum/project",
     description: [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -83,7 +65,7 @@ export const projects = [
     ],
   },
   {
-    title: "Dolor Sit Amet App",
+    title: "API básica",
     github: "https://github.com/loremipsum/dolorapp",
     description: [
       "Morbi in sem quis dui placerat ornare.",
