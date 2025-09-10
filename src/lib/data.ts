@@ -66,13 +66,11 @@ export const projects = [
   },
   {
     title: "API básica",
-    github: "https://github.com/loremipsum/dolorapp",
+    github: "https://github.com/rpagliarulo/APIbasica-kiosco",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Simulación de un sistema back-end para un kiosco",
+      "Operaciones CRUD basicas, simulando una base de datos con archivos JSON",
+      "Tecnologías utilizadas: JS, Node.js, Express",
     ],
   },
 ];
