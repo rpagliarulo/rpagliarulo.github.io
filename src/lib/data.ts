@@ -79,38 +79,47 @@ export const projects = [
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Fundación Pescar | Artech ",
+    location: "Buenos Aires, Argentina",
+    position: "Pasante de desarrollo SAP e Inteligencia Artificial",
+    period: "Julio 2025 - Present",
     achievements: [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Universidad Nacional de Hurlingham",
+    location: "Buenos Aires, Argentina",
+    position: "Profesora universitaria asistente",
+    period: "Feb 2023 - Jactualidad",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "Explicación y resolución de ejercicios prácticos. ",
+      "Corrección y devolución de trabajos prácticos. ",
+      "Elaboración de material didáctico.",
     ],
   },
   {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
+    company: "San Miguel",
+    location: "Buenos Aires, Argentina",
+    position: "ADministrativa",
     period: "Jun 2018 - Feb 2019",
     achievements: [
       "Praesent dapibus, neque id cursus faucibus.",
       "Fusce feugiat malesuada odio.",
+    ],
+  },
+
+   {
+    company: "Arcos Dorados S.A (McDonalds)",
+    location: "Buenos Aires, Argentina",
+    position: "Anfitriona (Marketing)",
+    period: "Jun 2018 - Feb 2019",
+    achievements: [
+      "Recepción y asistencia de clientes. ",
+      "Venta persuasiva. Atención y solución de reclamos, sugerencias, etc.",
+      "Organización de celebraciones y eventos especiales en el local.",
     ],
   },
 ];
