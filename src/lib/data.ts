@@ -1,12 +1,12 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  name: "Rocío Pagliarulo",
+  location: "Buenos Aires, Argentina",
+  email: "rociopagliarulo@gmail.com",
+  github: "https://github.com/rpagliarulo",
+  linkedin: "https://linkedin.com/in/rociopagliarulo",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Soy desarrolladora de software back-end, actualmente finalizando mi formación como Técnica Universitaria en Programación; y continuando con la Licenciatura en Informática en la Universidad Nacional de Hurlingham. Mi enfoque en el desarrollo se centra en el análisis y la resolución de problemas, siempre con el objetivo de crear soluciones innovadoras, eficientes y de alto impacto, que agreguen valor a cada proyecto en el que participo.",
 };
 
 export const workExperience = [
