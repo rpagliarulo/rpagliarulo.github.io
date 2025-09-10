@@ -26,8 +26,8 @@ export const education = [
   {
     institution: "Universidad Nacional de Hurlingham",
     location: "Buenos Aires, Argentina",
-    degree: "Licenciada en Informática",
-    period: "2022 - actualidad",
+    degree: "Licencia",
+    period: "2022 - 2025",
     achievements: [
       "President of Lorem Ipsum Club",
       "Organized multiple lorem events",
@@ -37,20 +37,24 @@ export const education = [
   },
 ];
 
+
 export const skills = {
   programmingLanguages: [
-    "Java",
-    "Phyton",
-    "JavaScript",
+    "LoremLang",
+    "IpsumScript",
+    "DolorLang",
     "SitLang",
     "AmetLang",
     "ConsecteturLang",
   ],
   frontendDevelopment: [
+    "LoremJS",
+    "IpsumJS",
+    "Dolor Native",
+    "Sit UI",
+    "Amet CSS",
     "HTML",
     "CSS",
-    "React",
-    "Sit UI",
   ],
   backendDevelopment: ["LoremNode", "IpsumExpress"],
   databaseAndStorage: ["LoremDB", "IpsumORM"],
