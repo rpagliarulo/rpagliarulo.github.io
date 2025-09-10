@@ -82,18 +82,16 @@ export const workExperience = [
     company: "Fundación Pescar | Artech ",
     location: "Buenos Aires, Argentina",
     position: "Pasante de desarrollo SAP e Inteligencia Artificial",
-    period: "Julio 2025 - Present",
+    period: "Julio 2025 - Presente",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+      "Tecnologías: SQL, ABAP, JavaScript, FIORI/UI5, SAP BTP",
     ],
   },
   {
     company: "Universidad Nacional de Hurlingham",
     location: "Buenos Aires, Argentina",
     position: "Profesora universitaria asistente",
-    period: "Feb 2023 - Jactualidad",
+    period: "Feb 2025 - Actualidad",
     achievements: [
       "Explicación y resolución de ejercicios prácticos. ",
       "Corrección y devolución de trabajos prácticos. ",
@@ -103,11 +101,12 @@ export const workExperience = [
   {
     company: "San Miguel",
     location: "Buenos Aires, Argentina",
-    position: "ADministrativa",
-    period: "Jun 2018 - Feb 2019",
+    position: "Administrativa",
+    period: "Sep 2018 - OCt 2024",
     achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      " Atención a clientes, proveedores y colaboradores.",
+      " Seguimiento de pedidos desde toma del mismo hasta su posterior envío.",
+      " Control y reposición de stock, cobranzas, preparación de órdenes de pago.",
     ],
   },
 
@@ -115,7 +114,7 @@ export const workExperience = [
     company: "Arcos Dorados S.A (McDonalds)",
     location: "Buenos Aires, Argentina",
     position: "Anfitriona (Marketing)",
-    period: "Jun 2018 - Feb 2019",
+    period: "Jun 2016 - Feb 2018",
     achievements: [
       "Recepción y asistencia de clientes. ",
       "Venta persuasiva. Atención y solución de reclamos, sugerencias, etc.",
