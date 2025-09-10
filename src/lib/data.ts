@@ -9,6 +9,21 @@ export const personalInfo = {
     "Soy desarrolladora de software back-end, actualmente finalizando mi formación como Técnica Universitaria en Programación; y continuando con la Licenciatura en Informática en la Universidad Nacional de Hurlingham. Mi enfoque en el desarrollo se centra en el análisis y la resolución de problemas, siempre con el objetivo de crear soluciones innovadoras, eficientes y de alto impacto, que agreguen valor a cada proyecto en el que participo.",
 };
 
+export const education = [
+  {
+    institution: "Universidad Nacional de Hurlingham",
+    location: "Buenos Aires, Argentina",
+    degree: "Técnica Universitaria en Programación",
+    period: "2022 - 2025",
+    achievements: [
+      "President of Lorem Ipsum Club",
+      "Organized multiple lorem events",
+      "Represented university in national competitions.",
+      "Graduated with honors.",
+    ],
+  },
+];
+
 export const workExperience = [
   {
     company: "Lorem Ipsum Corp",
@@ -47,20 +62,7 @@ export const workExperience = [
   },
 ];
 
-export const education = [
-  {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
-    achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
-    ],
-  },
-];
+
 export const skills = {
   programmingLanguages: [
     "LoremLang",
