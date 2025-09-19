@@ -38,17 +38,13 @@ export const skills = {
     "CSS",
     "React.js",
   ],
-  backendDevelopment: ["LoremNode", "IpsumExpress"],
-  databaseAndStorage: ["LoremDB", "IpsumORM"],
-  cloudAndDevOps: ["LoremCloud"],
+  backendDevelopment: ["LNode.js", "Express"],
+  databaseAndStorage: ["MySQL", "SQLServer"],
+  cloudAndDevOps: ["AWS"],
   toolsAndServices: [
-    "LoremAuth",
-    "IpsumCMS",
-    "DolorAnalytics",
-    "SitValidator",
-    "AmetMonitor",
-    "ConsecteturPanel",
-    "AdipiscingTrigger",
+    "Microsoft Office",
+    "Google Sheets",
+    "Trello",
   ],
 };
 
