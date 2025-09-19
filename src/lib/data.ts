@@ -38,13 +38,16 @@ export const skills = {
     "CSS",
     "React.js",
   ],
-  backendDevelopment: ["LNode.js", "Express"],
+  backendDevelopment: ["Node.js", "Express"],
   databaseAndStorage: ["MySQL", "SQLServer"],
   cloudAndDevOps: ["AWS"],
   toolsAndServices: [
     "Microsoft Office",
+    "Outlook",
     "Google Sheets",
     "Trello",
+    "Slack",
+    "Inglés B2",
   ],
 };
 
