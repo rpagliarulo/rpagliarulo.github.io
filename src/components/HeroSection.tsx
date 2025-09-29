@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Desarrolladora de Software | Estudiante Lic. Informática 👩🏻‍💻
+              Desarrolladora de Software Backend | Estudiante Lic. Informática | Administrativa y Representante de atención al cliente 👩🏻‍💻
             </motion.p>
 
             <motion.div
