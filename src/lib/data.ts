@@ -6,7 +6,7 @@ export const personalInfo = {
   linkedin: "https://linkedin.com/in/rociopagliarulo",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Soy desarrolladora de software back-end, actualmente finalizando mi formación como Técnica Universitaria en Programación; y continuando con la Licenciatura en Informática en la Universidad Nacional de Hurlingham. Mi enfoque en el desarrollo se centra en el análisis y la resolución de problemas, siempre con el objetivo de crear soluciones innovadoras, eficientes y de alto impacto, que agreguen valor a cada proyecto en el que participo.",
+    "Soy estudiante avanzada de Lic. Informática y próxima Técnica Universitaria en Programación. Tengo experiencia en programación, bases de datos y metodologías ágiles, pero también en gestión administrativa y trato con clientes, lo que me permite unir lo técnico con lo organizativo. Actualmente, estoy complementando mi formación con las tecnologías del ecosistema SAP e Inteligencia Artificial. Busco crecer en el área de tecnología, aportando soluciones que optimicen procesos y ayuden a las organizaciones a alcanzar resultados concretos.",
 };
 
 export const education = [
